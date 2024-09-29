@@ -1,5 +1,7 @@
+# the employee directory contains the homework
+
 # Django part 
-## 1. project -> django-admin startproject myworld
+## 1. project -> django-admin startproject employee
 ## 2. app -> python manage.py startapp members
 ## 3. modify settings and migrate the changes
 ## 4.modify models  ,makemigrations and migrate
